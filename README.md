@@ -19,7 +19,7 @@
 
 
 <!--Intro start-->
-- 🔭 **I'm the CEO of HOZ y Kannde and a sotfware developer in training at riwi**
+- 🔭 **I'm the CEO of HOZ y Kannde and a sotfware developer**
 
 - 🌱 I'm currently working on projects with Python and learning how to use GitHub.
 

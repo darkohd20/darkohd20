@@ -55,5 +55,10 @@
 
 </p>
 
+<h3>Languages & Frameworks</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
+</p>
 
 ----------------------------------------------------------------------

@@ -25,6 +25,11 @@
 
 - ☁️ I'm passionate about innovating and finding efficient solutions to any coding challenge.
 <p align="center">
+<h3>Languages & Frameworks</h3>
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
+</p>
 
   <a href="https://github.com/darkohd20" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="70" />
@@ -55,10 +60,6 @@
 
 </p>
 
-<h3>Languages & Frameworks</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
-</p>
 
 ----------------------------------------------------------------------

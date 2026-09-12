@@ -27,9 +27,7 @@
 <p align="center">
 <h3>Languages & Frameworks</h3>
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,python&theme=dark" />
-</p>
+  
 
   <a href="https://github.com/darkohd20" target="_blank">
     <img src="https://skillicons.dev/icons?i=github" width="70" />

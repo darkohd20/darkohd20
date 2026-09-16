@@ -23,7 +23,7 @@
 <ul>
   <li>🔭 <strong>I'm the CEO of HOZ y Kannde and a software developer.</strong></li>
 
-  <li>🌱 <strong>I'm currently working on projects with Python and learning how to use GitHub.</strong></li>
+  <li>🌱 <strong</strong></li>
 
   <li>☁️ <strong>I'm passionate about innovating and finding efficient solutions to coding challenges.</strong></li>
 </ul>

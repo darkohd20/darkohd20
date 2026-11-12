@@ -1,99 +1,146 @@
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <div align="center">
 
-<h1>
-  Hello, welcome! 📌 &lt; Developers/ &gt;! 👋
-</h1>
+# 🧊 MELMA ICE
+### POWERED BY HOZ
 
-<p>
-  <strong>
-    My name is Cristian. Thank you for taking the time to view my GitHub Profile 😎
-  </strong>
-</p>
+**INNOVATION · TECHNOLOGY · VISION**
+
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B36,100:050816&height=3&section=header" width="100%">
+
+### BUILDING THE FUTURE, ONE IDEA AT A TIME.
+
+*Welcome to my digital space.*
+
+<br>
+
+<a href="https://github.com/darkohd20">
+  <img src="https://img.shields.io/badge/HOZ-FOUNDER%20MINDSET-00D9FF?style=for-the-badge">
+</a>
+<a href="https://github.com/darkohd20">
+  <img src="https://img.shields.io/badge/MELMA%20ICE-TECH%20PROJECT-8A2BE2?style=for-the-badge">
+</a>
+
+<br><br>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=SOFTWARE+DEVELOPER;BUILDING+MELMA+ICE;CREATING+WITH+PURPOSE;ALWAYS+INNOVATING." alt="Typing SVG">
 
 </div>
+
+---
+
+## ◈ ABOUT ME
+
+```yaml
+Name: Cristian De La Hoz
+Alias: HOZ
+Role: Software Developer
+Company: MELMA ICE
+Organization: HOZ y Kannde
+
+Mindset:
+  - Innovation
+  - Creativity
+  - Continuous Learning
+  - Building Real Solutions
+
+Mission: Turn ideas into reality.
+```
+
+I'm a software developer passionate about technology, innovation and building projects that make a difference.
+
+I believe in creating, experimenting and constantly improving. My goal is to develop solutions that combine technology, functionality and creativity.
+
+## ◈ MY PROJECTS
 
 <div align="center">
 
-<h2>About me</h2>
+### 🧊 MELMA ICE
+
+**A NEW WAY TO EXPERIENCE GRANIZADOS.**
+
+An innovative automated slush experience, combining technology, automation and product innovation.
+
+<img src="https://img.shields.io/badge/PROJECT-MELMA%20ICE-00D9FF?style=for-the-badge">
+
+<br><br>
+
+### ⚡ HOZ
+
+**THINK DIFFERENT. BUILD DIFFERENT.**
+
+My personal identity, representing ambition, development, entrepreneurship and the pursuit of new opportunities.
+
+<img src="https://img.shields.io/badge/IDENTITY-HOZ-8A2BE2?style=for-the-badge">
 
 </div>
 
-<ul>
-  <li>🔭 <strong>I'm the CEO of HOZ y Kannde and a software developer.</strong></li>
+---
 
-  <li>🌱 <strong</strong></li>
-
-  <li>☁️ <strong>I'm passionate about innovating and finding efficient solutions to coding challenges.</strong></li>
-</ul>
+## ◈ TECHNOLOGIES & TOOLS
 
 <div align="center">
 
-<h2>Languages &amp; Frameworks</h2>
+### PROGRAMMING LANGUAGES
 
-<p>
+<img src="https://skillicons.dev/icons?i=python,javascript,html,css,php" />
 
-<a href="https://github.com/darkohd20" target="_blank">
-  <img src="https://skillicons.dev/icons?i=github" width="60" alt="GitHub">
-</a>
+### FRAMEWORKS & DATABASES
 
-<a href="https://www.python.org/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=python" width="60" alt="Python">
-</a>
+<img src="https://skillicons.dev/icons?i=bootstrap,tailwind,mysql" />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-  <img src="https://skillicons.dev/icons?i=javascript" width="60" alt="JavaScript">
-</a>
+### DEVELOPMENT TOOLS
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-  <img src="https://skillicons.dev/icons?i=html" width="60" alt="HTML">
-</a>
-
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-  <img src="https://skillicons.dev/icons?i=css" width="60" alt="CSS">
-</a>
-
-<a href="https://www.php.net/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=php" width="60" alt="PHP">
-</a>
-
-<a href="https://getbootstrap.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=bootstrap" width="60" alt="Bootstrap">
-</a>
-
-<a href="https://tailwindcss.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=tailwind" width="60" alt="Tailwind CSS">
-</a>
-
-<a href="https://www.mysql.com/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=mysql" width="60" alt="MySQL">
-</a>
-
-</p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
+
+---
+
+## ◈ CURRENT FOCUS
+
+- 🚀 Developing and improving my software development skills.
+- 🧊 Working on the MELMA ICE project.
+- 💻 Building web applications and exploring new technologies.
+- 🧠 Learning, experimenting and solving real-world problems.
+- ⚡ Turning ambitious ideas into functional projects.
+
+---
+
+## ◈ CONNECT WITH ME
 
 <div align="center">
 
-<h2>Connect With Me 🤝</h2>
-
-<p>
-
-<a href="https://www.linkedin.com/in/cristian-de-la-hoz-916678389/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" width="60" alt="LinkedIn">
+<a href="https://www.linkedin.com/in/cristian-de-la-hoz-916678389/">
+  <img src="https://skillicons.dev/icons?i=linkedin" width="48">
+</a>
+&nbsp;
+<a href="https://www.instagram.com/cristian.dl1/">
+  <img src="https://skillicons.dev/icons?i=instagram" width="48">
+</a>
+&nbsp;
+<a href="https://discord.com/users/1008032567691321384">
+  <img src="https://skillicons.dev/icons?i=discord" width="48">
+</a>
+&nbsp;
+<a href="https://github.com/darkohd20">
+  <img src="https://skillicons.dev/icons?i=github" width="48">
 </a>
 
-<a href="https://www.instagram.com/cristian.dl1/" target="_blank">
-  <img src="https://skillicons.dev/icons?i=instagram" width="60" alt="Instagram">
-</a>
+<br><br>
 
-<a href="https://discord.com/users/1008032567691321384" target="_blank">
-  <img src="https://skillicons.dev/icons?i=discord" width="60" alt="Discord">
-</a>
+**LET'S BUILD SOMETHING EXTRAORDINARY.**
 
-</p>
+<br>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:050816,50:101B36,100:050816&height=3&section=footer" width="100%">
+
+### MELMA ICE × HOZ
+
+*Innovation has no limits.*
+
+<sub>© 2026 HOZ · All rights reserved.</sub>
 
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
